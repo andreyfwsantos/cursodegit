@@ -1,1 +1,3 @@
 Meu primeiro arquivo para aprender git
+
+usando o metodo diff do git
